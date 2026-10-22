@@ -1,0 +1,4 @@
+interface:
+  display_name: "remotion-science-video"
+  short_description: "按四步提示词制作配乐科普视频，打磨卡点动画并整理小红书发布素材"
+  default_prompt: "使用 $remotion-science-video，按我提供的主题和音乐制作视频，先给10秒试片，确认后完善成片并准备小红书封面、正文与标签。"
